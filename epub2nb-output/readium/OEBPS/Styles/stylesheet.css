@@ -1,0 +1,190 @@
+.calibre {
+    display: block;
+    font-family: "Book Antiqua", serif;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    text-justify-trim: punctuation;
+    margin: 0 5pt
+    }
+.calibre1 {
+    font-family: "Book Antiqua", "serif";
+    font-size: 1.41667em;
+    line-height: 1.2
+    }
+.calibre2 {
+    display: block;
+    line-height: 1.2
+    }
+.calibre3 {
+    color: gray;
+    display: block;
+    height: 2px;
+    text-align: center;
+    border: currentColor inset 1px;
+    margin: 0.5em auto
+    }
+.calibre4 {
+    display: block
+    }
+.calibre5 {
+    color: windowtext;
+    text-decoration: none
+    }
+.calibre6 {
+    height: 31px;
+    width: 88px
+    }
+.calibre7 {
+    font-family: "Book Antiqua", "serif";
+    font-size: 1em
+    }
+.calibre8 {
+    display: block
+    }
+.calibre9 {
+    line-height: 1.2
+    }
+.e-booklicenceobrazek {
+    display: block;
+    font-family: "Book Antiqua", "serif";
+    font-size: 0.75em;
+    text-align: center;
+    margin: 6pt 0 4.5pt
+    }
+.e-booklicenceparagraf {
+    display: block;
+    font-family: "Book Antiqua", "serif";
+    font-size: 1.41667em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0 0 6pt
+    }
+.e-booklicencetext {
+    display: block;
+    font-family: "Book Antiqua", "serif";
+    font-size: 0.75em;
+    text-align: center;
+    margin: 0 0 0.0001pt
+    }
+.e-booklicencetexthypertext9bchar {
+    color: blue;
+    font-family: "Book Antiqua", "serif";
+    text-decoration: underline
+    }
+.e-booknadpis3probasne {
+    display: block;
+    font-family: "Book Antiqua", "serif";
+    font-size: 1.125em;
+    font-weight: bold;
+    line-height: 1.2;
+    page-break-after: avoid;
+    margin: 12pt 0 6pt 35.45pt
+    }
+.e-bookobsah {
+    display: block;
+    font-family: "Book Antiqua", "serif";
+    font-size: 1em;
+    font-weight: bold;
+    text-align: center;
+    margin: 0 0 12pt
+    }
+.e-booktirazacitacetext {
+    display: block;
+    font-family: "Book Antiqua", "serif";
+    font-size: 1em;
+    text-align: justify;
+    margin: 0 0 0.0001pt
+    }
+.e-booktirazacitacetext1 {
+    display: block;
+    font-family: "Book Antiqua", "serif";
+    font-size: 1em;
+    text-align: center;
+    margin: 0 0 0.0001pt
+    }
+.e-booktirazacitacetextkurzivachar {
+    font-family: "Book Antiqua", "serif";
+    font-style: italic
+    }
+.e-booktirazautoradilo {
+    display: block;
+    font-family: "Book Antiqua", "serif";
+    font-size: 1.125em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin: 0 0 0.0001pt
+    }
+.e-booktirazodsazeni6b {
+    display: block;
+    font-family: "Book Antiqua", "serif";
+    font-size: 1em;
+    text-align: justify;
+    margin: 0 0 6pt
+    }
+.e-booktiraztexttucnechar {
+    font-family: "Book Antiqua", "serif";
+    font-weight: bold
+    }
+.e-booktitulkaautor {
+	display: block;
+	font-family: "Book Antiqua", "serif";
+	font-size: 1.4em;
+	text-align: center;
+	text-autospace: none;
+	margin: 12pt 0 0 0
+	} 
+.e-booktitulkadilo {
+display: block;
+font-family: "Book Antiqua", "serif";
+font-size: 1.8em;
+text-align: center;
+text-autospace: none;
+margin: 100pt 0 0 0
+} 
+ 
+.e-bookversebezpredsazeni6bza {
+    display: block;
+    font-family: "Book Antiqua", "serif";
+    font-size: 1em;
+    margin: 6pt 0 6pt 35.45pt
+    }
+.e-bookversebezpredsazeni6bzakurziva {
+    display: block;
+    font-family: "Book Antiqua", "serif";
+    font-size: 1em;
+    font-style: italic;
+    margin: 6pt 0 6pt 35.45pt
+    }
+.msotoc {
+    display: block;
+    font-family: "Book Antiqua", "serif";
+    font-size: 1em;
+    margin: 0 0 0.0001pt 22pt
+    }
+.wordsection {
+    display: block;
+    page: WordSection1
+    }
+.wordsection1 {
+    display: block;
+    page: WordSection2
+    }
+.wordsection2 {
+    display: block;
+    page: WordSection3
+    }
+.wordsection3 {
+    display: block;
+    page: WordSection4
+    }
+.pcalibre:visited {
+    color: purple;
+    text-decoration: underline
+    }
+.pcalibre1:link {
+    color: blue;
+    font-family: "Book Antiqua", "serif";
+    text-decoration: underline
+    }

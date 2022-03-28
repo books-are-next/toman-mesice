@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="0e691c94-f420-4fdd-9fd9-a98649e35d38" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Měsíce</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Leden</text>
+      </navLabel>
+      <content src="Text/mesice_005.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Únor</text>
+      </navLabel>
+      <content src="Text/mesice_006.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Březen</text>
+      </navLabel>
+      <content src="Text/mesice_007.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Duben</text>
+      </navLabel>
+      <content src="Text/mesice_008.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Květen</text>
+      </navLabel>
+      <content src="Text/mesice_009.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Červen</text>
+      </navLabel>
+      <content src="Text/mesice_010.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Červenec</text>
+      </navLabel>
+      <content src="Text/mesice_011.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Srpen</text>
+      </navLabel>
+      <content src="Text/mesice_012.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Září</text>
+      </navLabel>
+      <content src="Text/mesice_013.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Říjen</text>
+      </navLabel>
+      <content src="Text/mesice_014.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Listopad</text>
+      </navLabel>
+      <content src="Text/mesice_015.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Prosinec</text>
+      </navLabel>
+      <content src="Text/mesice_016.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Bibliografie Karla Tomana (první vydání)</text>
+      </navLabel>
+      <content src="Text/meisce_017.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,185 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Měsíce",
+    "identifier": "0e691c94-f420-4fdd-9fd9-a98649e35d38",
+    "author": "Karel Toman",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs",
+    "modified": "2017-01-10T00:00:00.000Z",
+    "published": "2017-06-01T00:00:00.000Z",
+    "calibre:title_sort": "Měsíce",
+    "Sigil version": "0.9.6"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mesice_001.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mesice_002.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mesice_003.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mesice_004.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mesice_005.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mesice_006.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mesice_007.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mesice_008.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mesice_009.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mesice_010.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mesice_011.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mesice_012.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mesice_013.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mesice_014.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mesice_015.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mesice_016.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/meisce_017.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mesice_018.htm"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua-Bold-Italic.ttf"
+    },
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua-Bold.ttf"
+    },
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua-Italic.ttf"
+    },
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua.ttf"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/page_styles.css"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/stylesheet.css"
+    },
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Leden",
+      "href": "OEBPS/Text/mesice_005.htm"
+    },
+    {
+      "title": "Únor",
+      "href": "OEBPS/Text/mesice_006.htm"
+    },
+    {
+      "title": "Březen",
+      "href": "OEBPS/Text/mesice_007.htm"
+    },
+    {
+      "title": "Duben",
+      "href": "OEBPS/Text/mesice_008.htm"
+    },
+    {
+      "title": "Květen",
+      "href": "OEBPS/Text/mesice_009.htm"
+    },
+    {
+      "title": "Červen",
+      "href": "OEBPS/Text/mesice_010.htm"
+    },
+    {
+      "title": "Červenec",
+      "href": "OEBPS/Text/mesice_011.htm"
+    },
+    {
+      "title": "Srpen",
+      "href": "OEBPS/Text/mesice_012.htm"
+    },
+    {
+      "title": "Září",
+      "href": "OEBPS/Text/mesice_013.htm"
+    },
+    {
+      "title": "Říjen",
+      "href": "OEBPS/Text/mesice_014.htm"
+    },
+    {
+      "title": "Listopad",
+      "href": "OEBPS/Text/mesice_015.htm"
+    },
+    {
+      "title": "Prosinec",
+      "href": "OEBPS/Text/mesice_016.htm"
+    },
+    {
+      "title": "Bibliografie Karla Tomana (první vydání)",
+      "href": "OEBPS/Text/meisce_017.htm"
+    }
+  ]
+}
