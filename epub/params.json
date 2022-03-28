@@ -93,7 +93,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Leden"
           },
           {
             "filename": "mesice_006.md",
@@ -105,7 +106,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Únor"
           },
           {
             "filename": "mesice_007.md",
@@ -117,7 +119,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Březen"
           },
           {
             "filename": "mesice_008.md",
@@ -129,7 +132,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Duben"
           },
           {
             "filename": "mesice_009.md",
@@ -141,7 +145,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Květen"
           },
           {
             "filename": "mesice_010.md",
@@ -153,7 +158,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Červen"
           },
           {
             "filename": "mesice_011.md",
@@ -165,7 +171,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Červenec"
           },
           {
             "filename": "mesice_012.md",
@@ -177,7 +184,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Srpen"
           },
           {
             "filename": "mesice_013.md",
@@ -189,7 +197,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Září"
           },
           {
             "filename": "mesice_014.md",
@@ -201,7 +210,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Říjen"
           },
           {
             "filename": "mesice_015.md",
@@ -213,7 +223,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Listopad"
           },
           {
             "filename": "mesice_016.md",
@@ -225,7 +236,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Prosinec"
           },
           {
             "filename": "meisce_017.md",
@@ -237,7 +249,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Bibliografie Karla Tomana (první vydání)"
           },
           {
             "filename": "mesice_018.md",
@@ -290,79 +303,79 @@
         "xhtml": "mesice_004.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Leden",
         "subtitleSuggest": "",
         "filename": "mesice_005.md",
         "xhtml": "mesice_005.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Únor",
         "subtitleSuggest": "",
         "filename": "mesice_006.md",
         "xhtml": "mesice_006.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Březen",
         "subtitleSuggest": "",
         "filename": "mesice_007.md",
         "xhtml": "mesice_007.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Duben",
         "subtitleSuggest": "",
         "filename": "mesice_008.md",
         "xhtml": "mesice_008.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Květen",
         "subtitleSuggest": "",
         "filename": "mesice_009.md",
         "xhtml": "mesice_009.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Červen",
         "subtitleSuggest": "",
         "filename": "mesice_010.md",
         "xhtml": "mesice_010.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Červenec",
         "subtitleSuggest": "",
         "filename": "mesice_011.md",
         "xhtml": "mesice_011.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Srpen",
         "subtitleSuggest": "",
         "filename": "mesice_012.md",
         "xhtml": "mesice_012.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Září",
         "subtitleSuggest": "",
         "filename": "mesice_013.md",
         "xhtml": "mesice_013.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Říjen",
         "subtitleSuggest": "",
         "filename": "mesice_014.md",
         "xhtml": "mesice_014.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Listopad",
         "subtitleSuggest": "",
         "filename": "mesice_015.md",
         "xhtml": "mesice_015.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Prosinec",
         "subtitleSuggest": "",
         "filename": "mesice_016.md",
         "xhtml": "mesice_016.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Bibliografie Karla Tomana (první vydání)",
         "subtitleSuggest": "",
         "filename": "meisce_017.md",
         "xhtml": "meisce_017.htm"
@@ -446,6 +459,6 @@
       "user": "books-are-next",
       "repo": "toman-mesice"
     },
-    "generatedAt": 1648459872048
+    "generatedAt": 1648460840956
   }
 }
