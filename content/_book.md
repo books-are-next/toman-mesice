@@ -2,18 +2,18 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
+  contentType: poetry
   title: Měsíce
   identifier: 0e691c94-f420-4fdd-9fd9-a98649e35d38
   author: Karel Toman
   publisher: Městská knihovna v Praze
   modified: '2017-01-10T00:00:00.000Z'
+  publisherShort: mkp
 readingOrder:
-  - mesice_001.html
   - mesice_002.html
-  - mesice_003.html
-  - mesice_004.html
   - mesice_005.html
   - mesice_006.html
   - mesice_007.html
@@ -27,11 +27,12 @@ readingOrder:
   - mesice_015.html
   - mesice_016.html
   - meisce_017.html
-  - mesice_018.html
+  - colophon.html
 tocBase:
   - id: section-1
     children: []
     isSection: true
+    listType: plain
 static:
   - style
   - scripts
