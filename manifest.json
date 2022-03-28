@@ -1,0 +1,329 @@
+{
+  "author": "Karel Toman",
+  "contenttype": "poetry",
+  "identifier": "toman-mesice-abf8a3d",
+  "languagecode": "cs",
+  "modified": "2017-01-10T00:00:00.000Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Měsíce",
+  "revision": "abf8a3d",
+  "generatedAt": {
+    "date": "Mon Mar 28 2022 09:48:49 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1648460929376
+  },
+  "documents": [
+    {
+      "title": "Měsíce",
+      "file": "mesice_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "mesice_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Leden • Měsíce",
+      "file": "mesice_005.html",
+      "words": 62,
+      "chars": 361,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 1,
+      "prev": "mesice_002.html",
+      "next": "mesice_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Leden",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Únor • Měsíce",
+      "file": "mesice_006.html",
+      "words": 68,
+      "chars": 360,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 2,
+      "prev": "mesice_005.html",
+      "next": "mesice_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Únor",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Březen • Měsíce",
+      "file": "mesice_007.html",
+      "words": 61,
+      "chars": 325,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 3,
+      "prev": "mesice_006.html",
+      "next": "mesice_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Březen",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Duben • Měsíce",
+      "file": "mesice_008.html",
+      "words": 57,
+      "chars": 330,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 4,
+      "prev": "mesice_007.html",
+      "next": "mesice_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Duben",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Květen • Měsíce",
+      "file": "mesice_009.html",
+      "words": 68,
+      "chars": 364,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 5,
+      "prev": "mesice_008.html",
+      "next": "mesice_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Květen",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Červen • Měsíce",
+      "file": "mesice_010.html",
+      "words": 80,
+      "chars": 418,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 6,
+      "prev": "mesice_009.html",
+      "next": "mesice_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Červen",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Červenec • Měsíce",
+      "file": "mesice_011.html",
+      "words": 70,
+      "chars": 384,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 7,
+      "prev": "mesice_010.html",
+      "next": "mesice_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Červenec",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Srpen • Měsíce",
+      "file": "mesice_012.html",
+      "words": 60,
+      "chars": 356,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 8,
+      "prev": "mesice_011.html",
+      "next": "mesice_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Srpen",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Září • Měsíce",
+      "file": "mesice_013.html",
+      "words": 61,
+      "chars": 345,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 9,
+      "prev": "mesice_012.html",
+      "next": "mesice_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Září",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Říjen • Měsíce",
+      "file": "mesice_014.html",
+      "words": 70,
+      "chars": 390,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 10,
+      "prev": "mesice_013.html",
+      "next": "mesice_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Říjen",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Listopad • Měsíce",
+      "file": "mesice_015.html",
+      "words": 75,
+      "chars": 395,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 11,
+      "prev": "mesice_014.html",
+      "next": "mesice_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Listopad",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Prosinec • Měsíce",
+      "file": "mesice_016.html",
+      "words": 62,
+      "chars": 350,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 12,
+      "prev": "mesice_015.html",
+      "next": "meisce_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Prosinec",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bibliografie Karla Tomana (první vydání) • Měsíce",
+      "file": "meisce_017.html",
+      "words": 42,
+      "chars": 292,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 13,
+      "prev": "mesice_016.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Bibliografie Karla Tomana (první vydání)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž • Měsíce",
+      "file": "colophon.html",
+      "words": 155,
+      "chars": 1033,
+      "ideas": 23,
+      "role": "colophon",
+      "order": null,
+      "prev": "meisce_017.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 995,
+      "chars": 5723,
+      "ideas": 206
+    },
+    "chapters": {
+      "words": 836,
+      "chars": 4670,
+      "ideas": 180
+    }
+  }
+}

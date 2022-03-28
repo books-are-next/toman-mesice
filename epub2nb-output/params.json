@@ -1,28 +1,31 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
+      "contentType": "poetry",
       "title": "Měsíce",
       "identifier": "0e691c94-f420-4fdd-9fd9-a98649e35d38",
       "author": "Karel Toman",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2017-01-10T00:00:00.000Z"
+      "modified": "2017-01-10T00:00:00.000Z",
+      "publisherShort": "mkp"
     },
     "elements": {
-      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola",
+      "title": "e-booknadpis3probasne ",
       "subtitle": "",
-      "h2": "MLP-uroven3-nadpis",
+      "h2": "",
       "h3": "",
       "h4": "",
       "hr": "",
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brBefore": "e-bookversebezpredsazeni6bza e-bookversebezpredsazeni6bzakurziva e-booktirazodsazeni6b ",
       "brAfter": "",
-      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
-      "figure": "MLP_obrazky\nMLP-obrazky",
-      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b",
-      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf",
+      "blockquote": "",
+      "figure": "",
+      "em": "e-booktirazacitacetextkurzivachar e-bookversebezpredsazeni6bzakurziva",
+      "strong": "e-booktiraztexttucnechar e-booktirazautoradilo ",
       "remove": "",
       "ignore": ""
     },
@@ -30,17 +33,19 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "mesice_001.md",
             "xhtml": "mesice_001.htm",
             "id": 0,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "mesice_002.md",
@@ -48,32 +53,35 @@
             "id": 1,
             "role": "chapter",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "mesice_003.md",
             "xhtml": "mesice_003.htm",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "mesice_004.md",
             "xhtml": "mesice_004.htm",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "mesice_005.md",
@@ -84,7 +92,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "mesice_006.md",
@@ -95,7 +104,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "mesice_007.md",
@@ -106,7 +116,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "mesice_008.md",
@@ -117,7 +128,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "mesice_009.md",
@@ -128,7 +140,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "mesice_010.md",
@@ -139,7 +152,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "mesice_011.md",
@@ -150,7 +164,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "mesice_012.md",
@@ -161,7 +176,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "mesice_013.md",
@@ -172,7 +188,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "mesice_014.md",
@@ -183,7 +200,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "mesice_015.md",
@@ -194,7 +212,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "mesice_016.md",
@@ -205,7 +224,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "meisce_017.md",
@@ -216,18 +236,20 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "mesice_018.md",
             "xhtml": "mesice_018.htm",
             "id": 17,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -267,79 +289,79 @@
         "xhtml": "mesice_004.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Leden",
         "subtitleSuggest": "",
         "filename": "mesice_005.md",
         "xhtml": "mesice_005.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Únor",
         "subtitleSuggest": "",
         "filename": "mesice_006.md",
         "xhtml": "mesice_006.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Březen",
         "subtitleSuggest": "",
         "filename": "mesice_007.md",
         "xhtml": "mesice_007.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Duben",
         "subtitleSuggest": "",
         "filename": "mesice_008.md",
         "xhtml": "mesice_008.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Květen",
         "subtitleSuggest": "",
         "filename": "mesice_009.md",
         "xhtml": "mesice_009.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Červen",
         "subtitleSuggest": "",
         "filename": "mesice_010.md",
         "xhtml": "mesice_010.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Červenec",
         "subtitleSuggest": "",
         "filename": "mesice_011.md",
         "xhtml": "mesice_011.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Srpen",
         "subtitleSuggest": "",
         "filename": "mesice_012.md",
         "xhtml": "mesice_012.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Září",
         "subtitleSuggest": "",
         "filename": "mesice_013.md",
         "xhtml": "mesice_013.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Říjen",
         "subtitleSuggest": "",
         "filename": "mesice_014.md",
         "xhtml": "mesice_014.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Listopad",
         "subtitleSuggest": "",
         "filename": "mesice_015.md",
         "xhtml": "mesice_015.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Prosinec",
         "subtitleSuggest": "",
         "filename": "mesice_016.md",
         "xhtml": "mesice_016.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Bibliografie Karla Tomana (první vydání)",
         "subtitleSuggest": "",
         "filename": "meisce_017.md",
         "xhtml": "meisce_017.htm"
@@ -423,6 +445,6 @@
       "user": "books-are-next",
       "repo": "toman-mesice"
     },
-    "generatedAt": 1648459872048
+    "generatedAt": 1648460840956
   }
 }

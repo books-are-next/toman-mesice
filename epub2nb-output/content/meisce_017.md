@@ -1,8 +1,7 @@
 ---
+title: Bibliografie Karla Tomana (první vydání)
 contentType: prose
 ---
-
-### Bibliografie Karla Tomana (první vydání)
 
 Pohádky krve (1898)
 
