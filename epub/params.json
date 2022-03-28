@@ -1,1 +1,451 @@
-{}
+{
+  "params": {
+    "metadata": {
+      "languageCode": "cs",
+      "contentType": "poetry",
+      "title": "Měsíce",
+      "identifier": "0e691c94-f420-4fdd-9fd9-a98649e35d38",
+      "author": "Karel Toman",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2017-01-10T00:00:00.000Z",
+      "publisherShort": "mkp"
+    },
+    "elements": {
+      "title": "e-booknadpis3probasne ",
+      "subtitle": "",
+      "h2": "",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "e-bookversebezpredsazeni6bza e-bookversebezpredsazeni6bzakurziva e-booktirazodsazeni6b ",
+      "brAfter": "",
+      "blockquote": "",
+      "figure": "",
+      "em": "e-booktirazacitacetextkurzivachar e-bookversebezpredsazeni6bzakurziva",
+      "strong": "e-booktiraztexttucnechar e-booktirazautoradilo ",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "listType": "plain",
+        "children": [
+          {
+            "filename": "mesice_001.md",
+            "xhtml": "mesice_001.htm",
+            "id": 0,
+            "role": "colophon",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "mesice_002.md",
+            "xhtml": "mesice_002.htm",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": false,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "mesice_003.md",
+            "xhtml": "mesice_003.htm",
+            "id": 2,
+            "role": "colophon",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "mesice_004.md",
+            "xhtml": "mesice_004.htm",
+            "id": 3,
+            "role": "colophon",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "mesice_005.md",
+            "xhtml": "mesice_005.htm",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "mesice_006.md",
+            "xhtml": "mesice_006.htm",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "mesice_007.md",
+            "xhtml": "mesice_007.htm",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "mesice_008.md",
+            "xhtml": "mesice_008.htm",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "mesice_009.md",
+            "xhtml": "mesice_009.htm",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "mesice_010.md",
+            "xhtml": "mesice_010.htm",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "mesice_011.md",
+            "xhtml": "mesice_011.htm",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "mesice_012.md",
+            "xhtml": "mesice_012.htm",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "mesice_013.md",
+            "xhtml": "mesice_013.htm",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "mesice_014.md",
+            "xhtml": "mesice_014.htm",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "mesice_015.md",
+            "xhtml": "mesice_015.htm",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "mesice_016.md",
+            "xhtml": "mesice_016.htm",
+            "id": 15,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "meisce_017.md",
+            "xhtml": "meisce_017.htm",
+            "id": 16,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "mesice_018.md",
+            "xhtml": "mesice_018.htm",
+            "id": 17,
+            "role": "colophon",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          }
+        ]
+      }
+    ],
+    "replacements": []
+  },
+  "epub": {
+    "metadata": {
+      "title": "Měsíce",
+      "identifier": "0e691c94-f420-4fdd-9fd9-a98649e35d38",
+      "author": "Karel Toman",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2017-01-10T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mesice_001.md",
+        "xhtml": "mesice_001.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mesice_002.md",
+        "xhtml": "mesice_002.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mesice_003.md",
+        "xhtml": "mesice_003.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mesice_004.md",
+        "xhtml": "mesice_004.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mesice_005.md",
+        "xhtml": "mesice_005.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mesice_006.md",
+        "xhtml": "mesice_006.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mesice_007.md",
+        "xhtml": "mesice_007.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mesice_008.md",
+        "xhtml": "mesice_008.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mesice_009.md",
+        "xhtml": "mesice_009.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mesice_010.md",
+        "xhtml": "mesice_010.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mesice_011.md",
+        "xhtml": "mesice_011.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mesice_012.md",
+        "xhtml": "mesice_012.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mesice_013.md",
+        "xhtml": "mesice_013.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mesice_014.md",
+        "xhtml": "mesice_014.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mesice_015.md",
+        "xhtml": "mesice_015.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mesice_016.md",
+        "xhtml": "mesice_016.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "meisce_017.md",
+        "xhtml": "meisce_017.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mesice_018.md",
+        "xhtml": "mesice_018.htm"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua-Bold-Italic.ttf"
+      },
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua-Bold.ttf"
+      },
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua-Italic.ttf"
+      },
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua.ttf"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/page_styles.css"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/stylesheet.css"
+      },
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka.jpg"
+      }
+    ],
+    "classes": [
+      "calibre4",
+      "calibre5",
+      "calibre6",
+      "e-booklicenceobrazek",
+      "e-booklicenceparagraf",
+      "e-booklicencetext",
+      "e-booklicencetexthypertext9bchar",
+      "e-booknadpis3probasne",
+      "e-booktirazacitacetext",
+      "e-booktirazacitacetext1",
+      "e-booktirazacitacetextkurzivachar",
+      "e-booktirazautoradilo",
+      "e-booktirazodsazeni6b",
+      "e-booktiraztexttucnechar",
+      "e-booktitulkaautor",
+      "e-booktitulkadilo",
+      "e-bookversebezpredsazeni6bza",
+      "e-bookversebezpredsazeni6bzakurziva",
+      "pcalibre",
+      "pcalibre1",
+      "wordsection",
+      "wordsection1",
+      "wordsection2",
+      "wordsection3"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "toman-mesice"
+    },
+    "generatedAt": 1648459872048
+  }
+}
