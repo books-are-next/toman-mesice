@@ -30,7 +30,46 @@ readingOrder:
   - colophon.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: mesice_005.html
+        title: Leden
+        hiddenTitle: false
+      - link: mesice_006.html
+        title: Únor
+        hiddenTitle: false
+      - link: mesice_007.html
+        title: Březen
+        hiddenTitle: false
+      - link: mesice_008.html
+        title: Duben
+        hiddenTitle: false
+      - link: mesice_009.html
+        title: Květen
+        hiddenTitle: false
+      - link: mesice_010.html
+        title: Červen
+        hiddenTitle: false
+      - link: mesice_011.html
+        title: Červenec
+        hiddenTitle: false
+      - link: mesice_012.html
+        title: Srpen
+        hiddenTitle: false
+      - link: mesice_013.html
+        title: Září
+        hiddenTitle: false
+      - link: mesice_014.html
+        title: Říjen
+        hiddenTitle: false
+      - link: mesice_015.html
+        title: Listopad
+        hiddenTitle: false
+      - link: mesice_016.html
+        title: Prosinec
+        hiddenTitle: false
+      - link: meisce_017.html
+        title: Bibliografie Karla Tomana (první vydání)
+        hiddenTitle: false
     isSection: true
     listType: plain
 static:

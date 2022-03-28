@@ -93,7 +93,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Leden"
           },
           {
             "filename": "mesice_006.md",
@@ -105,7 +106,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Únor"
           },
           {
             "filename": "mesice_007.md",
@@ -117,7 +119,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Březen"
           },
           {
             "filename": "mesice_008.md",
@@ -129,7 +132,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Duben"
           },
           {
             "filename": "mesice_009.md",
@@ -141,7 +145,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Květen"
           },
           {
             "filename": "mesice_010.md",
@@ -153,7 +158,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Červen"
           },
           {
             "filename": "mesice_011.md",
@@ -165,7 +171,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Červenec"
           },
           {
             "filename": "mesice_012.md",
@@ -177,7 +184,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Srpen"
           },
           {
             "filename": "mesice_013.md",
@@ -189,7 +197,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Září"
           },
           {
             "filename": "mesice_014.md",
@@ -201,7 +210,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Říjen"
           },
           {
             "filename": "mesice_015.md",
@@ -213,7 +223,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Listopad"
           },
           {
             "filename": "mesice_016.md",
@@ -225,7 +236,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Prosinec"
           },
           {
             "filename": "meisce_017.md",
@@ -237,7 +249,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Bibliografie Karla Tomana (první vydání)"
           },
           {
             "filename": "mesice_018.md",
@@ -445,6 +458,6 @@
       "user": "books-are-next",
       "repo": "toman-mesice"
     },
-    "generatedAt": 1648460840956
+    "generatedAt": 1648461313983
   }
 }

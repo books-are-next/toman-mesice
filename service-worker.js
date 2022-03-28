@@ -2,7 +2,7 @@
 
 /* global self, caches, fetch */
 
-const CACHE = 'cache-abf8a3d';
+const CACHE = 'cache-40478fd';
 
 self.addEventListener('install', e => {
   e.waitUntil(precache()).then(() => self.skipWaiting());
@@ -40,7 +40,7 @@ self.addEventListener('activate', event => {
 });
 
 function precache() {
-  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./meisce_017.html","./mesice_002.html","./mesice_005.html","./mesice_006.html","./mesice_007.html","./mesice_008.html","./mesice_009.html","./mesice_010.html","./mesice_011.html","./mesice_012.html","./mesice_013.html","./mesice_014.html","./mesice_015.html","./mesice_016.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./scripts/bundle.js","./resources/image001.jpg","./resources/obalka.jpg","./resources/upoutavka_eknihy.jpg","./template-images/circles.png","./style/style.min.css"]));
+  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./meisce_017.html","./mesice_002.html","./mesice_005.html","./mesice_006.html","./mesice_007.html","./mesice_008.html","./mesice_009.html","./mesice_010.html","./mesice_011.html","./mesice_012.html","./mesice_013.html","./mesice_014.html","./mesice_015.html","./mesice_016.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.jpg","./resources/obalka.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]));
 }
 
 self.addEventListener('fetch', e => {
