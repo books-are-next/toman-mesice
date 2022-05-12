@@ -51,7 +51,7 @@
             "filename": "mesice_002.md",
             "xhtml": "mesice_002.htm",
             "id": 1,
-            "role": "chapter",
+            "role": "promo",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -458,6 +458,6 @@
       "user": "books-are-next",
       "repo": "toman-mesice"
     },
-    "generatedAt": 1648461313983
+    "generatedAt": 1652351531383
   }
 }

@@ -13,7 +13,7 @@ meta:
   modified: '2017-01-10T00:00:00.000Z'
   publisherShort: mkp
 readingOrder:
-  - mesice_002.html
+  - promo.html
   - mesice_005.html
   - mesice_006.html
   - mesice_007.html

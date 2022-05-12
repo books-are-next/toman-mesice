@@ -1,21 +1,39 @@
 {
-  "author": "Karel Toman",
-  "contenttype": "poetry",
-  "identifier": "toman-mesice-40478fd",
-  "languagecode": "cs",
-  "modified": "2017-01-10T00:00:00.000Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Měsíce",
-  "revision": "40478fd",
+  "author": "Karel Toman",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "toman-mesice-a022722",
+  "revision": "a022722",
+  "readingOrder": [
+    "promo.html",
+    "mesice_005.html",
+    "mesice_006.html",
+    "mesice_007.html",
+    "mesice_008.html",
+    "mesice_009.html",
+    "mesice_010.html",
+    "mesice_011.html",
+    "mesice_012.html",
+    "mesice_013.html",
+    "mesice_014.html",
+    "mesice_015.html",
+    "mesice_016.html",
+    "meisce_017.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Mon Mar 28 2022 09:57:12 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1648461432982
+    "date": "Thu May 12 2022 10:41:27 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352087340
   },
   "documents": [
     {
-      "title": "Měsíce",
-      "file": "mesice_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -23,25 +41,17 @@
       "order": 0,
       "prev": null,
       "next": "mesice_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "Leden • Měsíce",
+      "title": "Leden",
       "file": "mesice_005.html",
       "words": 62,
       "chars": 361,
       "ideas": 14,
       "role": "chapter",
       "order": 1,
-      "prev": "mesice_002.html",
+      "prev": "promo.html",
       "next": "mesice_006.html",
       "toc": [
         {
@@ -54,7 +64,7 @@
       ]
     },
     {
-      "title": "Únor • Měsíce",
+      "title": "Únor",
       "file": "mesice_006.html",
       "words": 68,
       "chars": 360,
@@ -74,7 +84,7 @@
       ]
     },
     {
-      "title": "Březen • Měsíce",
+      "title": "Březen",
       "file": "mesice_007.html",
       "words": 61,
       "chars": 325,
@@ -94,7 +104,7 @@
       ]
     },
     {
-      "title": "Duben • Měsíce",
+      "title": "Duben",
       "file": "mesice_008.html",
       "words": 57,
       "chars": 330,
@@ -114,7 +124,7 @@
       ]
     },
     {
-      "title": "Květen • Měsíce",
+      "title": "Květen",
       "file": "mesice_009.html",
       "words": 68,
       "chars": 364,
@@ -134,7 +144,7 @@
       ]
     },
     {
-      "title": "Červen • Měsíce",
+      "title": "Červen",
       "file": "mesice_010.html",
       "words": 80,
       "chars": 418,
@@ -154,7 +164,7 @@
       ]
     },
     {
-      "title": "Červenec • Měsíce",
+      "title": "Červenec",
       "file": "mesice_011.html",
       "words": 70,
       "chars": 384,
@@ -174,7 +184,7 @@
       ]
     },
     {
-      "title": "Srpen • Měsíce",
+      "title": "Srpen",
       "file": "mesice_012.html",
       "words": 60,
       "chars": 356,
@@ -194,7 +204,7 @@
       ]
     },
     {
-      "title": "Září • Měsíce",
+      "title": "Září",
       "file": "mesice_013.html",
       "words": 61,
       "chars": 345,
@@ -214,7 +224,7 @@
       ]
     },
     {
-      "title": "Říjen • Měsíce",
+      "title": "Říjen",
       "file": "mesice_014.html",
       "words": 70,
       "chars": 390,
@@ -234,7 +244,7 @@
       ]
     },
     {
-      "title": "Listopad • Měsíce",
+      "title": "Listopad",
       "file": "mesice_015.html",
       "words": 75,
       "chars": 395,
@@ -254,7 +264,7 @@
       ]
     },
     {
-      "title": "Prosinec • Měsíce",
+      "title": "Prosinec",
       "file": "mesice_016.html",
       "words": 62,
       "chars": 350,
@@ -274,7 +284,7 @@
       ]
     },
     {
-      "title": "Bibliografie Karla Tomana (první vydání) • Měsíce",
+      "title": "Bibliografie Karla Tomana (první vydání)",
       "file": "meisce_017.html",
       "words": 42,
       "chars": 292,
@@ -294,11 +304,11 @@
       ]
     },
     {
-      "title": "Tiráž • Měsíce",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 155,
-      "chars": 1033,
-      "ideas": 23,
+      "words": 129,
+      "chars": 901,
+      "ideas": 16,
       "role": "colophon",
       "order": null,
       "prev": "meisce_017.html",
@@ -316,9 +326,9 @@
   ],
   "totals": {
     "all": {
-      "words": 995,
-      "chars": 5723,
-      "ideas": 206
+      "words": 969,
+      "chars": 5591,
+      "ideas": 199
     },
     "chapters": {
       "words": 836,
