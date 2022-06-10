@@ -1,9 +1,7 @@
 ---
 title: Březen
-contentType: prose
+contentType: poetry
 ---
-
-  
 
 Na naší studni ráno hvízdal kos.  
 Jde jaro, jde jaro.  

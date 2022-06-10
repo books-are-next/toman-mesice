@@ -1,9 +1,7 @@
 ---
 title: Leden
-contentType: prose
+contentType: poetry
 ---
-
-  
 
 Po cestách zavátých a po silnicích  
 rod opuštěných bloudí.  

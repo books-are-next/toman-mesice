@@ -1,9 +1,7 @@
 ---
 title: Srpen
-contentType: prose
+contentType: poetry
 ---
-
-  
 
 V zahradu uzavřenou světu  
 šum klasů zavívá a voní živným chlebem.  

@@ -1,9 +1,7 @@
 ---
 title: Únor
-contentType: prose
+contentType: poetry
 ---
-
-  
 
 Kdo ticho miluješ a samotu  
 a v lesích hlubokých a v míru sněžných polí  

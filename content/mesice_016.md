@@ -1,9 +1,7 @@
 ---
 title: Prosinec
-contentType: prose
+contentType: poetry
 ---
-
-  
 
 Šla do Betléma rovná cesta,  
 zářila hvězda, všechno bylo prosté.  

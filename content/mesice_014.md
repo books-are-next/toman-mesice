@@ -1,9 +1,7 @@
 ---
 title: Říjen
-contentType: prose
+contentType: poetry
 ---
-
-  
 
 Ty bože révy, který posíláš  
 paprsky slunce na nalité hrozny,  
