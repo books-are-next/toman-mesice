@@ -1,9 +1,7 @@
 ---
 title: Červenec
-contentType: prose
+contentType: poetry
 ---
-
-  
 
 Svatý stín strážný bdí nám nad domovem,  
 hlas jeho slyšet v tichu: Pamatuj!  

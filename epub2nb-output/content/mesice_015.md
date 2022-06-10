@@ -1,9 +1,7 @@
 ---
 title: Listopad
-contentType: prose
+contentType: poetry
 ---
-
-  
 
 Vy štědré stromy zahrad i vy podle cest,  
 jež vztyčujete ramena  

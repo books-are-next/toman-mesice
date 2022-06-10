@@ -1,9 +1,7 @@
 ---
 title: Září
-contentType: prose
+contentType: poetry
 ---
-
-  
 
 Můj bratr dooral a vypřáh koně.  
 A jak se stmívá,  

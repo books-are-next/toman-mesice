@@ -1,9 +1,7 @@
 ---
 title: Květen
-contentType: prose
+contentType: poetry
 ---
-
-  
 
 Jdem všichni, s ženami a dětmi  
 a se snem předků.  

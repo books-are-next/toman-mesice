@@ -1,6 +1,6 @@
 ---
 title: Bibliografie Karla Tomana (první vydání)
-contentType: prose
+contentType: poetry
 ---
 
 Pohádky krve (1898)

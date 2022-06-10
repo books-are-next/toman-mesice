@@ -1,9 +1,7 @@
 ---
 title: Červen
-contentType: prose
+contentType: poetry
 ---
-
-  
 
 _Jaromírovi_
 

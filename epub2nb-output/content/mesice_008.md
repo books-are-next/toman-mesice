@@ -1,9 +1,7 @@
 ---
 title: Duben
-contentType: prose
+contentType: poetry
 ---
-
-  
 
 Veselé jarní přeháňky  
 a první boží duha nad krajinou!  
