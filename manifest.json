@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "toman-mesice-a262e74",
-  "revision": "a262e74",
+  "identifier": "toman-mesice-0234cd1",
+  "revision": "0234cd1",
   "readingOrder": [
     "promo.html",
     "mesice_005.html",
@@ -27,8 +27,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 13 2022 21:58:50 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655157530835
+    "date": "Wed Jun 15 2022 05:49:49 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655272189656
   },
   "documents": [
     {
@@ -306,9 +306,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 129,
-      "chars": 901,
-      "ideas": 16,
+      "words": 157,
+      "chars": 1079,
+      "ideas": 17,
       "role": "colophon",
       "order": null,
       "prev": "meisce_017.html",
@@ -326,9 +326,9 @@
   ],
   "totals": {
     "all": {
-      "words": 969,
-      "chars": 5591,
-      "ideas": 199
+      "words": 997,
+      "chars": 5769,
+      "ideas": 200
     },
     "chapters": {
       "words": 836,
