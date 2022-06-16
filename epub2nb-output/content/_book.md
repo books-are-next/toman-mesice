@@ -12,6 +12,7 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2017-01-10T00:00:00.000Z'
   publisherShort: mkp
+  edition: poezie
 readingOrder:
   - promo.html
   - mesice_005.html
