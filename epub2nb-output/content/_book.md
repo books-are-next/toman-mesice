@@ -28,7 +28,7 @@ readingOrder:
   - mesice_015.html
   - mesice_016.html
   - meisce_017.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:

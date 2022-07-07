@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "toman-mesice-e939b21",
-  "revision": "e939b21",
+  "identifier": "toman-mesice-e227e92",
+  "revision": "e227e92",
   "readingOrder": [
     "promo.html",
     "mesice_005.html",
@@ -25,11 +25,11 @@
     "mesice_015.html",
     "mesice_016.html",
     "meisce_017.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:30:27 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655980227543
+    "date": "Thu Jul 07 2022 08:40:37 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657183237641
   },
   "documents": [
     {
@@ -293,7 +293,7 @@
       "role": "chapter",
       "order": 13,
       "prev": "mesice_016.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -306,11 +306,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 157,
-      "chars": 1079,
+      "chars": 1076,
       "ideas": 17,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "meisce_017.html",
       "next": null,
@@ -328,7 +328,7 @@
   "totals": {
     "all": {
       "words": 998,
-      "chars": 5775,
+      "chars": 5772,
       "ideas": 201
     },
     "chapters": {
