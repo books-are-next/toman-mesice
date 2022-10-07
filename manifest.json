@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "toman-mesice-b712c08",
-  "revision": "b712c08",
+  "identifier": "toman-mesice-d306ccf",
+  "revision": "d306ccf",
   "readingOrder": [
     "promo.html",
     "mesice_005.html",
@@ -28,8 +28,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 23:06:31 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664924791174
+    "date": "Fri Oct 07 2022 14:06:49 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665151609903
   },
   "documents": [
     {
