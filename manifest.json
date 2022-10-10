@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "toman-mesice-d306ccf",
-  "revision": "d306ccf",
+  "identifier": "toman-mesice-8427c0c",
+  "revision": "8427c0c",
   "readingOrder": [
     "promo.html",
     "mesice_005.html",
@@ -28,8 +28,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 14:06:49 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151609903
+    "date": "Mon Oct 10 2022 15:59:18 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417558882
   },
   "documents": [
     {
@@ -308,7 +308,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 156,
-      "chars": 1079,
+      "chars": 1082,
       "ideas": 16,
       "role": "about",
       "order": null,
@@ -328,7 +328,7 @@
   "totals": {
     "all": {
       "words": 997,
-      "chars": 5775,
+      "chars": 5778,
       "ideas": 200
     },
     "chapters": {
